@@ -1,5 +1,11 @@
 # criptografia
 <br>
-criptografia de mensagens com python
+autenticação de usuarios
 <br>
-o envio de mensagens utiliando dois computadores difentes só irá funcionar se os dois estiverem na mesma rede
+envio de mensagens 
+<br>
+criptografia de mensagens
+<br>
+utilizando python
+<br>
+
